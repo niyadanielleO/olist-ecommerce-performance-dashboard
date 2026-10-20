@@ -128,4 +128,4 @@ Placer les fichiers Olist dans `data/`, exécuter le notebook, puis suivre `tabl
 
 ---
 
-**N. Danielle OUATTARA** · [LinkedIn][(https://www.linkedin.com/in/ndanielleouattara/] · [Mes autres projets](https://github.com/niyadanielleO)
+**N. Danielle OUATTARA** · [LinkedIn](https://www.linkedin.com/in/ndanielleouattara/) · [Mes autres projets](https://github.com/niyadanielleO)
