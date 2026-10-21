@@ -105,6 +105,7 @@ Les indicateurs affichés dans Tableau ont été contrôlés par rapport aux val
 ```
 olist-ecommerce-performance-dashboard/
 ├── README.md
+├── requirements.txt
 ├── docs/
 │   └── brief_cadrage.md               note de cadrage du projet
 ├── data/                              fichiers Olist à télécharger (non versionnés)
@@ -120,8 +121,11 @@ olist-ecommerce-performance-dashboard/
 ```bash
 git clone https://github.com/niyadanielleO/olist-ecommerce-performance-dashboard.git
 cd olist-ecommerce-performance-dashboard
-conda activate segmentation
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 mkdir -p data outputs
+jupyter notebook
 ```
 
 Placer les fichiers Olist dans `data/`, exécuter le notebook, puis suivre `tableau/guide_tableau.md`.
