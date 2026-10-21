@@ -60,7 +60,7 @@ La note de cadrage est disponible dans [`docs/brief_cadrage.md`](docs/brief_cadr
 | 8 à 14 jours | 1,67 | 78,4 % |
 | Plus de 14 jours | 1,72 | 75,5 % |
 
-Un seul à trois jours de retard fait perdre un point de note et multiplie par trois la part d'avis négatifs. Au-delà d'une semaine, près de 8 clients sur 10 laissent une mauvaise note.
+Un à trois jours de retard font perdre un point de note et multiplient par 3,5 la part d'avis négatifs. Au-delà d'une semaine, près de 8 clients sur 10 laissent une mauvaise note.
 
 ### Fidélité
 
@@ -134,4 +134,4 @@ Placer les fichiers Olist dans `data/`, exécuter le notebook, puis suivre `tabl
 
 ---
 
-**N. Danielle OUATTARA** · [LinkedIn](https://www.linkedin.com/in/ndanielleouattara/) · [Mes autres projets](https://github.com/niyadanielleO)
+**Niya C. Danielle Ouattara** · [LinkedIn](https://www.linkedin.com/in/ndanielleouattara/) · [Mes autres projets](https://github.com/niyadanielleO)

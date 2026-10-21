@@ -1,7 +1,7 @@
 # Note de cadrage — Tableau de bord de performance d'une place de marché en ligne
 
 **Projet :** Pilotage de la performance e-commerce d'Olist
-**Auteure :** Danielle OUATTARA
+**Auteure :** Niya C. Danielle Ouattara
 **Version :** 1.0 — octobre 2026
 
 ---
