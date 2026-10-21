@@ -6,6 +6,8 @@
 
 **Dashboard interactif :** [Olist - Performance e-commerce sur Tableau Public](https://public.tableau.com/app/profile/n.c.danielle.ouattara/viz/Olist-Performancee-commerce)
 
+![Indicateurs clés et croissance, janvier 2017 - août 2018](docs/dashboard_indicateurs.png)
+
 ---
 
 ## 1. Contexte
